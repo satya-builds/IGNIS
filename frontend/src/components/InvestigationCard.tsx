@@ -1,0 +1,1 @@
+// Investigation summary card component
